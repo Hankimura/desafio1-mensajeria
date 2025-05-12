@@ -52,12 +52,20 @@ body {
 
 }
 
+.boton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  padding-bottom: 40px;
+
+}
 .nuevo-chat {
   background: #b89ddd;
   color: white;
   border: none;
-  padding: 18px;
-  margin: 20px;
+  padding: 15px 50px; 
+  margin: 0px;
   cursor: pointer;
   font-size: 20px;
 
